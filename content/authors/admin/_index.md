@@ -24,4 +24,4 @@ highlight_name: true
 ---
 I am currently an undergraduate at the University of Illinois at Urbana-Champaign studying Mathematics and Computer Science. I am largely interested in the intersection of theoretical computer science and pure mathematics. In particular, I am interested in various aspects of quantum computation and information.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv_resume-12_10-.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_resume-12_10-.pdf" "newtab" >}}CV{{< /staticref >}}.
