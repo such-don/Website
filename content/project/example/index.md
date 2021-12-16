@@ -1,21 +1,16 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: ""
 url_video: ""
 date: 2021-12-16T05:40:55.360Z
 external_link: ""
 url_slides: ""
 title: BTW 250 Final Portfolio
-tags:
-  - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+tags: []
+links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
