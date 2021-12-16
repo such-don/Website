@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 summary: This is where my final portfolio sumamry and strengths and goals memo is.
 url_video: ""
