@@ -334,11 +334,11 @@ I think one of the most useful skills I have picked up is the right way to revie
 
 **How might these skills need to evolve with a changing workplace?**
 
- 
+ I don't think either of these skills will go unused in a changing workplace. 
 
 **How do you plan to continue honing your writing practice to suit the changing workplace?**
 
- 
+ I don't forsee doing anything special to adapt to a changing environment when it comes to writing. I believe that I will be doing way more writing in the future than I ever did in undergrad, and that I will naturally self reflect and improve. 
 
 **Grade Expected before Semester: A**
 
