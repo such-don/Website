@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-## Revised Strengths and Goals Memo
+## **Revised Strengths and Goals Memo**
 
 Suchetan Dontha
 
@@ -64,13 +64,13 @@ Suchetan Dontha
 
 <br/>
 
-## Reflective Portfolio Summary
+## **Reflective Portfolio Summary**
 
-For my portfolio, I decided to choose the culmination of the work of three different projects I have worked on over the past few years. The first is the manuscript that was submitted to a conference for a project on quantum computing that I was a part of. I included this piece because it is by far the most involved project I have been a part of and hence the piece that I am most proud of. It is also the first and only academic paper I have written, and as I'm attempting to become a researcher, this allows me to showcase my technical writing skills and also what I am capable of in the field. A current weakness of this piece is that it is not publicly available since it is not brushed up yet. However, my collaborators and I plan to polish it up and put it on the arxiv in the coming months, so in the future, I will change it to go there instead. The next piece I included is a poster that was made for a project on applying quantum computing to a problem in math. The strength of including this is twofold. Firstly, I can showcase my ability to make a subject presentable and understandable (to those in the field of course). But secondly, it showcases that I am competent in both mathematics and computer science. The final piece I include is a poster that was made for a math project I was on. I included this to show my competency with programming as well as math. However, a weakness of including posters, in general, is that it is not seen as very substantive work - having a technical report is almost always going to be a better representation of ability. That being said, I don't have any other papers I have written, so all I can do is add them to this website as they happen. 
+For my portfolio, I decided to choose the culmination of the work of three different projects I have worked on over the past few years. The first is the manuscript that was submitted to a conference for a project on quantum computing that I was a part of. I included this piece because it is by far the most involved project I have been a part of and hence the piece that I am most proud of. It is also the first and only academic paper I have written, and as I'm attempting to become a researcher, this allows me to showcase my technical writing skills and also what I am capable of in the field. A current weakness of this piece is that it is not publicly available since it is not brushed up yet. However, my collaborators and I plan to polish it up and put it on the arxiv in the coming months, so in the future, I will change it to go there instead. The next piece I included is a poster that was made for a project on applying quantum computing to a problem in math. The strength of including this is twofold. Firstly, I can showcase my ability to make a subject presentable and understandable (to those in the field of course). But secondly, it showcases that I am competent in both mathematics and computer science. The final piece I include is a poster that was made for a math project I was on. I included this to show my competency with programming as well as math. However, a weakness of including posters, in general, is that it is not seen as very substantive work - having a technical report is almost always going to be a better representation of ability. That being said, I don't have any other papers I have written, so all I can do is add them to this website as they come. 
 
 <br/>
 
-## Performance Review Form
+## **Performance Review Form**
 
 <!--\[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Normal</w:View><w:Compatibility><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><!\[endif]-->
 
