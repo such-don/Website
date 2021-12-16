@@ -6,7 +6,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: suchdon777@gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/suchetan-dontha/
