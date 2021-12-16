@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: 
+  date_end: "2020-05-16"
+  date_start: "2020-01-10"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  organization: University of Illinois at Urbana-Champaign
+  organization_url: 
+  title: "Building a Computer With Knots"
+  url: https://quizzical-hypatia-50aceb.netlify.app/uploads/BraidPoster.pdf
+- certificate_url: 
+  date_end: "2021-12-17"
+  date_start: "2021-02-12"
+  description: 
+  organization: University of Illinois at Urbana-Champaign
+  organization_url: 
+  title: "Detecting Knottedness via Quantum Computation"
+  url: https://quizzical-hypatia-50aceb.netlify.app/uploads/KhoHoPoster.pdf
 - certificate_url:
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_end: "2021-11-21"
+  date_start: "2021-06-15"
   description: ""
   organization: University of Maryland
   organization_url: 
-  title: 'Simulating Shallow Geometrically Local Quantum Circuits'
+  title: "Simulating Shallow Geometrically Local Quantum Circuits"
   url: https://quizzical-hypatia-50aceb.netlify.app/uploads/QIP.pdf
 
 design:
