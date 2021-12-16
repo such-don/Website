@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: ""
+summary: This is where my final portfolio sumamry and strengths and goals memo is.
 url_video: ""
 date: 2021-12-16T05:40:55.360Z
 external_link: ""
