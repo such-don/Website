@@ -16,6 +16,42 @@ url_code: ""
 ---
 ## Revised Strengths and Goals Memo
 
+Suchetan Dontha
+
+9 New Providence Ave
+
+Summit, NJ 07901
+
+suchdon777@gmail.com
+
+
+
+12/15/21
+
+
+
+Erin Cheslow
+
+Department of English
+
+University of Illinois at Urbana-Champaign
+
+608 South Wright Street
+
+Urbana, IL 61801
+
+Dear Ms Cheslow,
+
+
+
+
+
+
+
+Sincerely,
+
+Suchetan Dontha
+
 
 
 ## Reflective Portfolio Summary
