@@ -330,7 +330,7 @@ For my portfolio, I decided to choose the culmination of the work of three diffe
 
 **What skill(s) are you likely to implement in your future career?**
 
- 
+I think one of the most useful skills I have picked up is the right way to review. The idea that review is not just meant to fix previous mistakes but also imrpove upon existing strengths really resonated with me. Another skill I have picked up (or rather improved upon) is leadership. I usually assume the role of a leader in a group setting, and that was no different in this class.
 
 **How might these skills need to evolve with a changing workplace?**
 
